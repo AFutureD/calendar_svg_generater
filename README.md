@@ -17,7 +17,9 @@ With the link `http://[YOUR_MOMAIN_OR_IP]/calendar.php?highlight=false&date=2020
 <img src="./img/with_params.jpg" width="20%">.
 
 `highlight`: The default value is `True`, the `day` text will be black. IF `False` or `false`, the `day` text will be gray.
-`date`: The default value is today's date. You can give the value like: `tomorrow`, `next mon`, `2020/05/20`, `May 6, 2020` etc.
+
+`date`: Show today's date by default. You can give the value like: `tomorrow`, `next mon`, `2020/05/20`, `May 6, 2020` etc.
+
 `strip`: The default value is `True`, the `day` text will shows without `0`. IF `False` or `false`, the `day` text will be show with `0`.
  
 
