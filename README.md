@@ -2,7 +2,7 @@
 
 This project is based on [Dynamic-SVG-Calendar-Icon](https://github.com/edent/Dynamic-SVG-Calendar-Icon).
 
-Use php or python to generate a daily calendar svg. The python version support sererless.
+Use php or python to generate a daily calendar svg. The python version support severless.
 
 ## How to use
 
